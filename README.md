@@ -185,8 +185,8 @@ jupyter notebook notebooks/climate_analysis.ipynb
 ## 👤 Author
 
 **Seshu**
-- GitHub: [github.com/yourusername](https://github.com/seshu-8)
-- LinkedIn: [linkedin.com/in/yourusername](https://www.linkedin.com/in/seshu-babu-konijeti-74968b2b9?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- GitHub: [github](https://github.com/seshu-8)
+- LinkedIn: [linkedin](https://www.linkedin.com/in/seshu-babu-konijeti-74968b2b9?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 - Email: seshubabukv1200@gmail.com
 
 ---

@@ -1,0 +1,6 @@
+year,forecast_temp_c,forecast_rain_mm,model,temp_lower,temp_upper
+2025,27.59,1439.9,Linear Regression,26.39,28.79
+2026,27.61,1452.4,Linear Regression,26.41,28.81
+2027,27.64,1464.9,Linear Regression,26.44,28.84
+2028,27.66,1477.3,Linear Regression,26.46,28.86
+2029,27.68,1489.8,Linear Regression,26.48,28.88
